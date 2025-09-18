@@ -1,0 +1,10 @@
+healthcare-claims-optimization/
+├── dags/
+│   └── claims_ingestion_dag.py
+├── scripts/
+│   └── anomaly_detection.py
+├── sql/
+│   └── optimize_queries.sql
+├── data/
+│   └── claims.csv
+├── README.md
